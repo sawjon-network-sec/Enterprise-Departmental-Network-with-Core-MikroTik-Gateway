@@ -17,6 +17,7 @@ The lab was implemented to simulate real-world enterprise network operations and
 Departments implemented:
 - HR Department Network
 - IT Department Network
+![Network Topology](topology.png)
 
 Core Device:
 - MikroTik Router (Core & Edge Gateway)
